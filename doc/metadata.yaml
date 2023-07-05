@@ -1,0 +1,13 @@
+description: null
+github_branch: ADCdual01A
+github_repo: ADCdual01
+github_url: https://github.com/mlab-modules/ADCdual01
+homepage: false
+images:
+- doc/img/ADCdual01A_top_big.jpg
+- doc/img/ADCdual01A_bottom_big.jpg
+- doc/img/ADCdual.png
+- doc/img/ADCdual01A_QRcode.png
+mark: 50
+tags: []
+title: ADCdual01
