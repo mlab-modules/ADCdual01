@@ -9,6 +9,7 @@ images:
 - doc/img/ADCdual.png
 - doc/img/ADCdual01A_QRcode.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
