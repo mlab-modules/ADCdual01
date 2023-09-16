@@ -1,4 +1,6 @@
-description: null
+description: Two-channel 16-bit A/D converter with differential input and serial LVDS
+  output. The underlying chip is LTC2271 by Linear Technology. Between the module
+  input and the converter, two LT6600 amplifiers are inserted.
 github_branch: ADCdual01A
 github_repo: ADCdual01
 github_url: https://github.com/mlab-modules/ADCdual01
@@ -6,11 +8,19 @@ homepage: false
 images:
 - doc/img/ADCdual01A_top_big.jpg
 - doc/img/ADCdual01A_bottom_big.jpg
-- doc/img/ADCdual.png
 - doc/img/ADCdual01A_QRcode.png
+- doc/img/ADCdual.png
 mark: 50
 status: 0
 tags:
 - mlab
 - mlab-module
+- 16bit
+- adc
+- lvds
+- mlab-adc
+- serial
+- adc-lvds
+- lt6600
+- serial-lvds
 title: ADCdual01

@@ -5,4 +5,6 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ADCdual01
-summary: null
+summary: Two-channel 16-bit A/D converter with differential input and serial LVDS
+  output. The underlying chip is LTC2271 by Linear Technology. Between the module
+  input and the converter, two LT6600 amplifiers are inserted.
